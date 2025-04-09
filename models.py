@@ -6,3 +6,4 @@ class Cat(Document):
     name = StringField()
     age = IntField()
     features = ListField()
+    
