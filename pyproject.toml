@@ -9,6 +9,9 @@ readme = "README.md"
 python = "^3.11"
 pymongo = "^4.11.3"
 mongoengine = "^0.29.1"
+beautifulsoup4 = "^4.13.4"
+requests = "^2.32.3"
+lxml = "^5.4.0"
 
 
 [build-system]
